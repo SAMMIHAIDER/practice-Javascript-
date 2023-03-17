@@ -1,0 +1,41 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+#header{
+    
+    background-color: rgb(199, 245, 245);
+   height: 100px;
+}
+h1{
+    margin-left: 70px;
+    padding-top: 30px;
+}
+#content{
+    display: flex;
+   
+    
+}
+img{
+  
+    width: 200px;
+}
+.text{
+    margin-left: 20px;
+    color: rgb(63, 19, 107); 
+}
+ul{
+    text-decoration: none;
+}
+li{
+margin-left: 20px;
+ color: rgb(35, 35, 205);   
+;
+
+}
+.xyz{
+    color: rgb(101, 9, 9);
+}
